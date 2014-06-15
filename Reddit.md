@@ -1,3 +1,5 @@
+Nyvaria [SMP] {Friendly Community} {Survival Focused} {+Skyblock World} {Prism} {1.7.9}
+
 * IP: **play.nyvaria.net**
 * Rules: **[overview](http://nyvaria.net/rules)** and **[full](http://wiki.nyvaria.net/Rules)**
 * Website: **http://nyvaria.net**
