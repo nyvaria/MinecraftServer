@@ -4,9 +4,9 @@ Nyvaria [SMP] {Friendly Community} {Survival Focused} {+Skyblock World} {Prism} 
 * Rules: **[overview](http://nyvaria.net/rules)** and **[full](http://wiki.nyvaria.net/Rules)**
 * Website: **http://nyvaria.net**
 * Live Map: **http://maps.nyvaria.net**
-* Subreddit: **http://www.reddit.com/r/Nyvaria**
 * Facebook: **http://www.facebook.com/Nyvaria**
 * Google+: **http://www.google.com/+Nyvaria**
+* Subreddit: **http://www.reddit.com/r/Nyvaria**
 
 Nyvaria is a family friendly, survival multiplayer community. Created in January 2012 by captbunzo as a place for his kids to play some Minecraft, Nyvaria soon evolved into much more. Today we have players of all ages and many additional server features.
 
